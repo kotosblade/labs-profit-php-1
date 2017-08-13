@@ -3,9 +3,5 @@
  * Created by PhpStorm.
  * User: kotos
  * Date: 13.08.2017
- * Time: 19:25
+ * Time: 20:32
  */
-
-echo 'this ins' .__DIR__;
-
-
